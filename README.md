@@ -1,23 +1,25 @@
-# ToDoApi
-# 📝 API de Gestión de Tareas (To-Do List)
+# 📝 ToDoApi - API de Gestión de Tareas
 
-Esta es una API REST desarrollada con **ASP.NET Core** y **Entity Framework Core** que permite gestionar tareas: crearlas, listarlas, actualizarlas y eliminarlas. Ideal como parte de un portafolio de desarrollo backend en C#.
+Esta es una API REST desarrollada con **ASP.NET Core** y **Entity Framework Core**, que permite gestionar tareas (To-Do list): crearlas, listarlas, actualizarlas y eliminarlas. Forma parte del portafolio de Kevin Lindsey León Tipto como desarrollador backend.
+
+🔗 Repositorio: [https://github.com/kevtip/ToDoApi](https://github.com/kevtip/ToDoApi)
 
 ---
 
 ## 🚀 Características
 
-- CRUD completo de tareas
+- CRUD completo (Crear, Leer, Actualizar, Eliminar)
+- Arquitectura sencilla y clara
 - Documentación interactiva con Swagger
-- Arquitectura limpia y fácil de extender
-- Base de datos mediante EF Core (In-Memory o SQLite)
+- Persistencia de datos con EF Core (In-Memory o SQL Server)
+- Proyecto ideal para fines educativos y de portafolio
 
 ---
 
 ## 📦 Requisitos
 
 - [.NET 6 SDK o .NET 7 SDK](https://dotnet.microsoft.com/download)
-- Visual Studio o Visual Studio Code
+- Visual Studio 2022 o Visual Studio Code
 
 ---
 
@@ -25,5 +27,5 @@ Esta es una API REST desarrollada con **ASP.NET Core** y **Entity Framework Core
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/kevtip/ToDoApi.git
 
